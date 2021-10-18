@@ -1,8 +1,7 @@
-Projeto de conclusão do Bloco 1 Generation "Posso Doar".
-
-Inserir um título
+Projeto de conclusão do BlOCO - I
 
 
+![git](https://user-images.githubusercontent.com/88368798/137806759-8cda2f47-0c26-498b-95b1-d7806ebbaced.jpg)
 
 
 QUAL A MISSÃO DO PROJETO?
